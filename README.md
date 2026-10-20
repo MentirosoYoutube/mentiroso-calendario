@@ -4,9 +4,11 @@ Calendario público estático para GitHub Pages. Sin dependencias, cuentas de vi
 
 ## Publicación
 
-Repositorio previsto: `MentirosoYoutube/mentiroso-calendario`.
+Repositorio: https://github.com/MentirosoYoutube/mentiroso-calendario
+
+Datos persistentes: `juegos.json`. Reglas de autorización: `AGENTS.md`.
 En Settings → Pages: Deploy from a branch → `main` → `/(root)` → Save.
-URL prevista (no acredita publicación): https://mentirosoyoutube.github.io/mentiroso-calendario/
+Dirección del calendario (comprobar despliegue antes de darlo por publicado): https://mentirosoyoutube.github.io/mentiroso-calendario/
 
 ## Actualización desde otro chat
 
