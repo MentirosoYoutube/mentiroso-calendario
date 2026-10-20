@@ -24,4 +24,6 @@ El juego aparece siempre en su lanzamiento. Si se autoriza una grabación en otr
 
 ## Investigación
 
-La investigación propone y Daniel elige. Revisar semana siguiente de lunes a domingo, oportunidades restantes de la semana actual, últimos siete días y vigilancia de las dos semanas posteriores. Catálogo amplio verificado más tres candidatos. Distinguir juegos completos, acceso anticipado, demos, expansiones, actualizaciones, remasters y ports. No hay automatización activada por este proyecto.
+La investigación propone y Daniel elige. Revisar semana siguiente de lunes a domingo, oportunidades restantes de la semana actual, últimos siete días y vigilancia de las dos semanas posteriores. Catálogo amplio verificado más tres candidatos. Distinguir juegos completos, acceso anticipado, demos, expansiones, actualizaciones, remasters y ports. Criterio vigente: `CRITERIO_DESCUBRIMIENTO.md`. Primera revisión guardada: `RADAR_2026-10-20.md`.
+
+Tarea creada y activa: **Radar de juegos Mentiroso**, lunes y jueves a las 10:00 Europe/Madrid; inicio previsto 22/10/2026. Investiga y presenta opciones, sin escribir en el calendario. Su creación no acredita que se haya completado una ejecución programada. Antes de configurar otra tarea, comprobar la existente.
