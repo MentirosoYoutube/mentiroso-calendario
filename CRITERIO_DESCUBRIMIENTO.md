@@ -1,6 +1,6 @@
 # Criterio de descubrimiento y selección — Mentiroso
 
-Versión 1.0 · Aprobado y puesto en marcha el 20/10/2026.
+Versión 1.1 · Actualizado con preferencias de Daniel el 20/10/2026.
 
 ## Objetivo
 
@@ -13,6 +13,20 @@ Cubrir distintos géneros y tamaños: aventuras narrativas, terror, acción, puz
 Ventana de cada ejecución: catálogo del mes actual y siguiente, con especial foco en la próxima semana natural lunes–domingo, lo que queda de la semana actual y los últimos siete días. Vigilar las dos semanas posteriores y señalar cambios desde la revisión previa. Fechas en Europe/Madrid cuando haya hora oficial; sin hora, declarar la incertidumbre y los conflictos entre fuentes. No afirmar exhaustividad: describir fuentes, plataformas cubiertas y huecos.
 
 Preferir juegos completos. Separar acceso anticipado de desarrollo, campaña anticipada por reserva, demos, playtests, actualizaciones, expansiones, remasters, remakes y ports. No llamar lanzamiento original a una nueva plataforma o edición. Si solo hay mes, no inventar un día.
+
+## Preferencias y decisiones de Daniel — 20/10/2026
+
+Plataforma disponible: solo PC. Excluir exclusivos de consola; GTA VI se vigila para su futura versión de PC, sin inventar fecha. Descartar juegos que requieran compañero, cooperativo obligatorio o depender de salas aleatorias. Cooperativo opcional se admite si la experiencia individual es viable; primera persona es perspectiva, no sinónimo de un jugador.
+
+Preferencia marcada por 3D y situaciones visuales comprensibles. 2D tiene prioridad baja, no exclusión absoluta: solo presentar excepciones justificadas. Excluir propuestas centradas en cartas y restauración rutinaria sin atractivo visual para esta selección; es preferencia editorial, no afirmar que esos géneros nunca funcionan en Shorts. No priorizar un lanzamiento 1.0 solo por salir de acceso anticipado: evaluar qué novedad real queda y las señales actuales. Los accesos anticipados nuevos siguen siendo admisibles si encajan.
+
+Hellraiser: Daniel lo aparta por el contenido explícito que ha observado y el coste/riesgo de publicarlo. No penalizar todo terror o desnudo automáticamente, ni afirmar sanciones de YouTube no verificadas. Evaluar escenas concretas y edición necesaria.
+
+Rechazados en la revisión inicial: la selección de octubre anterior al día 20 salvo Gears of War: E-Day, que queda como reserva; We Were Here Tomorrow por necesitar compañero; accesos anticipados propuestos (incluido Escape from Playtime). No volver a proponerlos sin una novedad que cambie el motivo de descarte. Los juegos completos de noviembre de la primera lista no le interesaron: no repetirlos como novedades sin un motivo nuevo.
+
+Candidatos pendientes, NO calendariados: ASPIS, Night Plane, Remothered: Red Nun's Legacy y Phantom Blade Zero; Gears of War: E-Day como reserva. Call of Duty es la única selección incorporada por ahora. Enlazar preferentemente la ficha Steam directa del juego base, comprobar nombre y app ID; una web oficial sirve si no existe Steam verificado.
+
+Si el mes actual/siguiente no ofrece suficiente encaje, ampliar a los dos meses anteriores (en esta revisión: agosto y septiembre de 2026). Mantener ventanas de estreno futuras y distinguir catálogo reciente de oportunidad de lanzamiento. La antigüedad pierde peso frente al encaje, sin abandonar la frescura cuando ambas opciones son comparables.
 
 ## Tabla y recomendaciones
 
