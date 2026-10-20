@@ -19,3 +19,8 @@
 - No crear duplicados por título/edición/plataforma. Usar identificadores estables.
 - Conservar información de otros juegos y registrar fecha de actualización ISO. Verificar persistencia y resumir cambios tras cada actualización.
 - No crear ni activar automatizaciones sin autorización. Una tarea guardada no acredita ejecución satisfactoria.
+
+## Descubrimiento y objetivo comercial
+
+- Leer `CRITERIO_DESCUBRIMIENTO.md` antes de investigar juegos o cambiar reglas. El objetivo comercial final son patrocinios de estudios, editoras y marcas mediante el contenido y la audiencia del canal; no vender un producto propio.
+- La tarea de investigación no añade ni reorganiza juegos del calendario. Entrega catálogo amplio y tres candidatos; no contactar a terceros sin autorización.
