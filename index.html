@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#141518">
+  <meta name="description" content="Calendario de videojuegos seleccionados para Mentiroso.">
+  <title>Mentiroso · Calendario</title>
+  <link rel="stylesheet" href="./style.css">
+  <script type="module" src="./app.mjs"></script>
+</head>
+<body>
+  <main class="shell">
+    <header class="top"><a class="brand" href="./" aria-label="Mentiroso, calendario"><span class="brand-icon" aria-hidden="true">M</span><span>MENTIROSO<span class="brand-sub">CALENDARIO DE VIDEOJUEGOS</span></span></a><span class="private-note">Selección del canal <span class="dot"></span></span></header>
+    <section class="toolbar" aria-label="Navegación del calendario"><div class="month-wrap"><span class="eyebrow">PRÓXIMAS SESIONES</span><h1 id="month" aria-live="polite"></h1></div><div class="navigation"><button id="previous" class="arrow" aria-label="Mes anterior">←</button><button id="today">Mes actual</button><button id="next" class="arrow" aria-label="Mes siguiente">→</button></div></section>
+    <nav id="quick" class="quick" aria-label="Accesos rápidos a los meses"></nav>
+    <section class="calendar" aria-label="Calendario mensual"><div class="weekdays" aria-hidden="true"><span>LUNES</span><span>MARTES</span><span>MIÉRCOLES</span><span>JUEVES</span><span>VIERNES</span><span>SÁBADO</span><span>DOMINGO</span></div><div id="grid" class="grid" role="list"></div><p id="message" class="notice" role="status">Cargando calendario…</p></section>
+    <footer><span><i class="legend release"></i> Lanzamiento <i class="legend recording"></i> Grabación · Si eliges otro día, se conservan ambas fechas.</span><span id="updated">Sin juegos seleccionados</span></footer>
+  </main>
+  <dialog id="day-dialog"><div class="dialog-head"><div><span class="eyebrow">AGENDA DEL DÍA</span><h2 id="day-title"></h2></div><button id="close" class="arrow" aria-label="Cerrar vista del día">×</button></div><div id="day-games"></div></dialog>
+</body>
+</html>
