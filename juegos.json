@@ -1,6 +1,26 @@
 {
   "schemaVersion": 1,
   "timezone": "Europe/Madrid",
-  "updatedAt": null,
-  "games": []
+  "updatedAt": "2026-10-20T12:00:22.012Z",
+  "games": [
+    {
+      "id": "call-of-duty-modern-warfare-4-campaign",
+      "name": "Call of Duty: Modern Warfare 4 · Campaña",
+      "status": "selected",
+      "releaseDate": "2026-10-23",
+      "recordingDate": "2026-10-20",
+      "earlyAccessDate": "2026-10-16",
+      "officialUrl": "https://www.callofduty.com/modernwarfare4",
+      "coverUrl": "https://imgs.callofduty.com/content/dam/atvi/callofduty/cod-touchui/blog/body/mw4/campaign-live/MW4-CAMPAIGNLIVE-004.webp",
+      "platforms": [
+        "PC",
+        "PS5",
+        "Xbox Series X|S",
+        "Switch 2"
+      ],
+      "releaseType": "Juego nuevo · Campaña anticipada desde 16/10 con reserva digital",
+      "dateSourceUrl": "https://www.callofduty.com/blog/2026/10/call-of-duty-modern-warfare-4-campaign-early-access-live-now",
+      "verifiedAt": "2026-10-20T12:00:22.012Z"
+    }
+  ]
 }
