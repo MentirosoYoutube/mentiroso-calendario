@@ -9,7 +9,7 @@ Web: https://mentirosoyoutube.github.io/mentiroso-calendario/
 Datos persistentes: juegos.json. Reglas de actualización: AGENTS.md.
 Con GitHub conectado, leer ambos archivos en su versión actual y usar el SHA vigente al guardar. Verificar después el archivo y la publicación. Abrir la web no concede permisos de escritura.
 
-Cada juego utiliza id único, name, status selected, releaseDate YYYY-MM-DD y officialUrl HTTPS. Campos opcionales: recordingDate, coverUrl, platforms, releaseType, dateSourceUrl, verifiedAt. Mantener lanzamiento y grabación separados. El calendario muestra lanzamiento y, cuando difiere, la grabación autorizada. Actualizar updatedAt con fecha ISO.
+Cada juego utiliza id único, name, status selected o candidate, releaseDate YYYY-MM-DD y officialUrl HTTPS. Campos opcionales: recordingDate, coverUrl, platforms, releaseType, dateSourceUrl, verifiedAt. candidate indica un lanzamiento en observación, sin compromiso de grabación; selected conserva las selecciones anteriores. Mantener lanzamiento y grabación separados. El calendario muestra lanzamiento y, cuando difiere, la grabación autorizada. Actualizar updatedAt con fecha ISO.
 
 ## Publicación
 
