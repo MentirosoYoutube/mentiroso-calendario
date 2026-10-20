@@ -1,29 +1,20 @@
 # Calendario de Mentiroso
 
-Calendario público estático para GitHub Pages. Sin dependencias, cuentas de visitantes, analítica ni APIs de pago. No incluye juegos hasta que Daniel los autorice.
+Calendario mensual público estático, sin dependencias, cuentas de visitantes, analítica ni APIs de pago.
+
+Web: https://mentirosoyoutube.github.io/mentiroso-calendario/
+
+## Datos y mantenimiento
+
+Datos persistentes: juegos.json. Reglas de actualización: AGENTS.md.
+Con GitHub conectado, leer ambos archivos en su versión actual y usar el SHA vigente al guardar. Verificar después el archivo y la publicación. Abrir la web no concede permisos de escritura.
+
+Cada juego utiliza id único, name, status selected, releaseDate YYYY-MM-DD y officialUrl HTTPS. Campos opcionales: recordingDate, coverUrl, platforms, releaseType, dateSourceUrl, verifiedAt. Mantener lanzamiento y grabación separados. El calendario muestra lanzamiento y, cuando difiere, la grabación autorizada. Actualizar updatedAt con fecha ISO.
 
 ## Publicación
 
-Repositorio: https://github.com/MentirosoYoutube/mentiroso-calendario
+GitHub Pages: Deploy from a branch, main, /(root). Los datos se obtienen al abrir la página; las cachés pueden tardar en reflejar cambios.
 
-Datos persistentes: `juegos.json`. Reglas de autorización: `AGENTS.md`.
-En Settings → Pages: Deploy from a branch → `main` → `/(root)` → Save.
-Dirección del calendario (comprobar despliegue antes de darlo por publicado): https://mentirosoyoutube.github.io/mentiroso-calendario/
+## Privacidad
 
-## Actualización desde otro chat
-
-Con GitHub conectado, abrir este repositorio y leer `AGENTS.md` y la versión actual de `juegos.json`. Actualizar el archivo mediante el conector, usando su SHA actual, y comprobar después la lectura y la web. La URL por sí sola no concede permisos de escritura.
-
-Los juegos se guardan en `juegos.json`, junto al código, en GitHub; no en localStorage. La web pide los datos al abrirse. La publicación y sus cachés pueden tardar en reflejar un cambio; no darlo por desplegado sin verificarlo.
-
-## Datos
-
-Cada juego seleccionado necesita `id` único, `name`, `status: "selected"`, `releaseDate` (YYYY-MM-DD) y `officialUrl` HTTPS. Opcionales: `recordingDate` (fecha o null), `coverUrl` HTTPS, `platforms` (lista), `releaseType`, `dateSourceUrl`, `verifiedAt`. Al modificar datos, actualizar `updatedAt` a fecha ISO con zona.
-
-El juego aparece siempre en su lanzamiento. Si se autoriza una grabación en otro día, aparece también ese día con etiqueta GRABACIÓN; no se cambia el lanzamiento. La vista del día muestra ambas fechas.
-
-## Investigación
-
-La investigación propone y Daniel elige. Revisar semana siguiente de lunes a domingo, oportunidades restantes de la semana actual, últimos siete días y vigilancia de las dos semanas posteriores. Catálogo amplio verificado más tres candidatos. Distinguir juegos completos, acceso anticipado, demos, expansiones, actualizaciones, remasters y ports. Criterio vigente: `CRITERIO_DESCUBRIMIENTO.md`. Primera revisión guardada: `RADAR_2026-10-20.md`.
-
-Tarea creada y activa: **Radar de juegos Mentiroso**, lunes y jueves a las 10:00 Europe/Madrid; inicio previsto 22/10/2026. Investiga y presenta opciones, sin escribir en el calendario. Su creación no acredita que se haya completado una ejecución programada. Antes de configurar otra tarea, comprobar la existente.
+El sitio, el repositorio y su historial son públicos. Solo alojar información autorizada para el calendario. Mantener documentación interna, investigación y datos confidenciales fuera del repositorio. Ocultar enlaces no restringe acceso. La retirada de contenido de la versión actual no borra el historial ni copias previas.
