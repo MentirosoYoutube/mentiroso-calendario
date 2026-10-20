@@ -1,6 +1,6 @@
 # Criterio de descubrimiento y selección — Mentiroso
 
-Versión 1.1 · Actualizado con preferencias de Daniel el 20/10/2026.
+Versión 1.2 · Actualizado con preferencias de Daniel el 20/10/2026.
 
 ## Objetivo
 
@@ -27,6 +27,18 @@ Rechazados en la revisión inicial: la selección de octubre anterior al día 20
 Candidatos pendientes, NO calendariados: ASPIS, Night Plane, Remothered: Red Nun's Legacy y Phantom Blade Zero; Gears of War: E-Day como reserva. Call of Duty es la única selección incorporada por ahora. Enlazar preferentemente la ficha Steam directa del juego base, comprobar nombre y app ID; una web oficial sirve si no existe Steam verificado.
 
 Si el mes actual/siguiente no ofrece suficiente encaje, ampliar a los dos meses anteriores (en esta revisión: agosto y septiembre de 2026). Mantener ventanas de estreno futuras y distinguir catálogo reciente de oportunidad de lanzamiento. La antigüedad pierde peso frente al encaje, sin abandonar la frescura cuando ambas opciones son comparables.
+
+## Ajuste tras revisión de agosto y septiembre — 20/10/2026
+
+Daniel rechaza por poco interés, repetición o escaso atractivo de espectáculo los candidatos de esa revisión, incluidos Worming from Home, BrokenLore, Beast of Reincarnation, The Sinking City 2, The Blood of Dawnwalker, Onimusha y Silent Hill: Townfall. Resonance: A Plague Tale Legacy queda como interés débil y pendiente, no elegido. No insistir en los descartados sin nueva evidencia relevante. Priorizar historia visible, conflictos entre personajes y situaciones interesantes de ver; combate exigente y repetitivo por sí solo no le atrae. Prefiere doblaje español: comprobar voces y subtítulos por separado. No convertir esta preferencia en veto absoluto sin confirmarlo, porque Dispatch, que le interesa, tiene voces inglesas.
+
+Nueva vía de descubrimiento: investigar qué juegos generan varios Shorts/TikToks exitosos, además de vigilar lanzamientos. Buscar clips de escenas distintas y de creadores distintos. Registrar título, enlace/ID cuando sea accesible, creador, idioma, fecha de publicación, duración/formato y contador con fecha de consulta. Separar gameplay, narración explicativa, montajes musicales, animaciones ajenas y mods. No trasladar el rendimiento de un edit musical a un gameplay automáticamente. No tratar acumulados históricos como prueba de tendencia reciente: crecimiento actual requiere dos mediciones comparables o datos históricos verificables. Un hashtag ambiguo y sus visualizaciones no acreditan el juego.
+
+Hallazgo provisional: Dispatch (Steam 2592160), juego individual de decisiones y superhéroes completo, publicado 22/10/2025, voces inglesas y textos españoles; Daniel parece referirse a él pero no ha ordenado añadirlo. Fuentes secundarias indexan varios clips con millones de vistas: Gamerpillar 'A man fights hardest for his Love' ~3,49 M, 'Flambae vs Meredith Brooks' ~3,47 M, 'Golem threw Punch Up out - All Choices' ~2,83 M; Crying Panda 'Revealing You Are Mecha Man...' ~4,93 M, publicado 08/11/2025. El formato exacto y montaje de algunos no se pudieron inspeccionar. Son señales históricas, no contadores primarios actuales ni prueba de viralidad reciente en español. Fuente: https://vidiq.com/youtube-stats/channel/UC_rqLZVSqhD4IKjzahdm6PQ/ y https://my.youtubers.me/crying-panda/youtube-videos-stats/en . La ficha incluye contenido adulto; revisar escenas, no excluir por etiqueta automáticamente.
+
+Otro hallazgo: Quarantine Zone: The Last Check (Steam 3419520), completo desde 12/01/2026, PC individual, textos españoles y voces inglesas/rusas. SocialCounts registra ~5,28 M para 'HE TURNED INTO A ZOMBIE' (n08qoq3Neng), descripción #shorts. No se pudo determinar si corresponde a demo o versión completa, ni publicación y crecimiento reciente: una muestra no basta para validar repetición. Ficha actual anuncia actualización gratuita Miami Zero; distinguirla de lanzamiento original. No seleccionado. Fuente: https://socialcounts.org/youtube-video-live-view-count/n08qoq3Neng .
+
+Límites de esta investigación: TikTok bloqueado por robots; Mi YouTube Directo devolvió Session terminated; no hay ranking exhaustivo ni muestra de competencia española suficiente. No repetir la cifra de ~2 millones de CKWorks para M4h1uogplQQ: es el TOTAL DEL CANAL, el vídeo tiene ~7.546. Guardar siempre métricas al nivel correcto.
 
 ## Tabla y recomendaciones
 
