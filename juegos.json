@@ -1,7 +1,18 @@
 {
   "schemaVersion": 1,
   "timezone": "Europe/Madrid",
-  "updatedAt": "2026-10-20T21:12:18.292Z",
+  "updatedAt": "2026-10-21T18:40:19Z",
+  "researchSchedule": {
+    "enabled": true,
+    "timeZone": "Europe/Madrid",
+    "weekdays": [
+      1,
+      4
+    ],
+    "hour": 10,
+    "minute": 0,
+    "startsOn": "2026-10-22"
+  },
   "games": [
     {
       "id": "call-of-duty-modern-warfare-4-campaign",

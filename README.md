@@ -13,8 +13,11 @@ Cada juego utiliza id único, name, status selected o candidate, releaseDate YYY
 
 ## Publicación
 
+El pie muestra la última modificación de datos y la próxima revisión prevista. `researchSchedule` en juegos.json refleja el horario público verificado de la revisión: `enabled`, `timeZone` IANA, `weekdays` (0 domingo–6 sábado), `hour`, `minute` y `startsOn` YYYY-MM-DD. La web calcula la siguiente fecha al abrir y cada 30 segundos, respetando el huso y los cambios de horario. Este dato no crea ni ejecuta una tarea; si su horario cambia o se pausa, sincronizar esta configuración con el horario real. La revisión propone juegos y no los incorpora automáticamente.
+
 GitHub Pages: Deploy from a branch, main, /(root). Los datos se obtienen al abrir la página; las cachés pueden tardar en reflejar cambios.
 
 ## Privacidad
 
 El sitio, el repositorio y su historial son públicos. Solo alojar información autorizada para el calendario. Mantener documentación interna, investigación y datos confidenciales fuera del repositorio. Ocultar enlaces no restringe acceso. La retirada de contenido de la versión actual no borra el historial ni copias previas.
+

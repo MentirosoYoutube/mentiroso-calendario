@@ -14,8 +14,9 @@
     <section class="toolbar" aria-label="Navegación del calendario"><div class="month-wrap"><span class="eyebrow">PRÓXIMAS SESIONES</span><h1 id="month" aria-live="polite"></h1></div><div class="navigation"><button id="previous" class="arrow" aria-label="Mes anterior">←</button><button id="today">Mes actual</button><button id="next" class="arrow" aria-label="Mes siguiente">→</button></div></section>
     <nav id="quick" class="quick" aria-label="Accesos rápidos a los meses"></nav>
     <section class="calendar" aria-label="Calendario mensual"><div class="weekdays" aria-hidden="true"><span>LUNES</span><span>MARTES</span><span>MIÉRCOLES</span><span>JUEVES</span><span>VIERNES</span><span>SÁBADO</span><span>DOMINGO</span></div><div id="grid" class="grid" role="list"></div><p id="message" class="notice" role="status">Cargando calendario…</p></section>
-    <footer><span><i class="legend release"></i> Lanzamiento <i class="legend recording"></i> Grabación · Si eliges otro día, se conservan ambas fechas.</span><span id="updated">Sin juegos seleccionados</span></footer>
+    <footer><span><i class="legend release"></i> Lanzamiento <i class="legend recording"></i> Grabación · Si eliges otro día, se conservan ambas fechas.</span><div class="update-times"><span id="updated">Sin juegos seleccionados</span><span id="next-update" title="Revisión programada de lanzamientos. Los juegos se incorporan cuando los elijas.">Próxima actualización: consultando horario…</span></div></footer>
   </main>
   <dialog id="day-dialog"><div class="dialog-head"><div><span class="eyebrow">AGENDA DEL DÍA</span><h2 id="day-title"></h2></div><button id="close" class="arrow" aria-label="Cerrar vista del día">×</button></div><div id="day-games"></div></dialog>
 </body>
 </html>
+
