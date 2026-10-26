@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "timezone": "Europe/Madrid",
-  "updatedAt": "2026-10-21T18:40:19Z",
+  "updatedAt": "2026-10-26T12:05:06.572Z",
   "researchSchedule": {
     "enabled": true,
     "timeZone": "Europe/Madrid",
@@ -107,6 +107,146 @@
       "releaseType": "Juego nuevo",
       "dateSourceUrl": "https://blog.es.playstation.com/2026/09/03/until-dawn-2-llegara-el-28-de-enero",
       "verifiedAt": "2026-10-20T21:12:18.292Z"
+    },
+    {
+      "id": "night-plane",
+      "name": "Night Plane",
+      "status": "candidate",
+      "releaseDate": "2026-10-26",
+      "officialUrl": "https://store.steampowered.com/app/3310570/",
+      "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3310570/099222477ad986b53ecf83539e66947b9536deed/header.jpg",
+      "platforms": [
+        "PC"
+      ],
+      "releaseType": "Juego nuevo",
+      "dateSourceUrl": "https://store.steampowered.com/app/3310570/",
+      "verifiedAt": "2026-10-26T12:05:06.572Z"
+    },
+    {
+      "id": "crack",
+      "name": "CRACK",
+      "status": "candidate",
+      "releaseDate": "2026-10-26",
+      "officialUrl": "https://store.steampowered.com/app/4312190/",
+      "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4312190/9dfa7d4efdcc88aa5663a31f02633391eb5ef843/header.jpg",
+      "platforms": [
+        "PC"
+      ],
+      "releaseType": "Juego nuevo",
+      "dateSourceUrl": "https://store.steampowered.com/app/4312190/",
+      "verifiedAt": "2026-10-26T12:05:06.572Z"
+    },
+    {
+      "id": "virtue-and-a-sledgehammer",
+      "name": "Virtue and a Sledgehammer",
+      "status": "candidate",
+      "releaseDate": "2026-10-27",
+      "officialUrl": "https://store.steampowered.com/app/3743260/",
+      "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743260/93488f22c9da9e61dd2b9092d149695bcc846e71/header.jpg",
+      "platforms": [
+        "PC"
+      ],
+      "releaseType": "Juego nuevo",
+      "dateSourceUrl": "https://store.steampowered.com/app/3743260/",
+      "verifiedAt": "2026-10-26T12:05:06.572Z"
+    },
+    {
+      "id": "terrible-lizards",
+      "name": "Terrible Lizards",
+      "status": "candidate",
+      "releaseDate": "2026-10-29",
+      "officialUrl": "https://store.steampowered.com/app/2920220/",
+      "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2920220/4b19bf2cbb1c1ef26cc0e898fc6e727776845b73/header.jpg",
+      "platforms": [
+        "PC"
+      ],
+      "releaseType": "Juego nuevo",
+      "dateSourceUrl": "https://store.steampowered.com/app/2920220/",
+      "verifiedAt": "2026-10-26T12:05:06.572Z"
+    },
+    {
+      "id": "the-wolf-among-us-remastered",
+      "name": "The Wolf Among Us Remastered",
+      "status": "candidate",
+      "releaseDate": "2026-10-29",
+      "officialUrl": "https://store.steampowered.com/app/3884860/",
+      "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3884860/80ddd096b6fdd5ab25162251bee4131c78cdf351/header.jpg",
+      "platforms": [
+        "PC"
+      ],
+      "releaseType": "Remaster",
+      "dateSourceUrl": "https://store.steampowered.com/app/3884860/",
+      "verifiedAt": "2026-10-26T12:05:06.572Z"
+    },
+    {
+      "id": "godzilla-destroy-all-monsters-melee-remastered",
+      "name": "Godzilla: Destroy All Monsters Melee Remastered",
+      "status": "candidate",
+      "releaseDate": "2026-11-03",
+      "officialUrl": "https://store.steampowered.com/app/4251460/",
+      "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4251460/28023d80b51185fe3dbadadf608523942f47238c/header.jpg",
+      "platforms": [
+        "PC"
+      ],
+      "releaseType": "Remaster",
+      "dateSourceUrl": "https://store.steampowered.com/app/4251460/",
+      "verifiedAt": "2026-10-26T12:05:06.572Z"
+    },
+    {
+      "id": "dreadmoor",
+      "name": "DREADMOOR",
+      "status": "candidate",
+      "releaseDate": "2026-11-09",
+      "officialUrl": "https://store.steampowered.com/app/3629430/",
+      "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3629430/5b80c132b3479c69a92c25a5266db523850cfc36/header.jpg",
+      "platforms": [
+        "PC"
+      ],
+      "releaseType": "Acceso anticipado de desarrollo",
+      "dateSourceUrl": "https://store.steampowered.com/app/3629430/",
+      "verifiedAt": "2026-10-26T12:05:06.572Z"
+    },
+    {
+      "id": "trees-hate-you",
+      "name": "Trees Hate You",
+      "status": "candidate",
+      "releaseDate": "2026-11-16",
+      "officialUrl": "https://store.steampowered.com/app/4171850/",
+      "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/4550c09c2fa41435b7b695f31460bea297d4ce15/header.jpg",
+      "platforms": [
+        "PC"
+      ],
+      "releaseType": "Juego nuevo",
+      "dateSourceUrl": "https://store.steampowered.com/app/4171850/",
+      "verifiedAt": "2026-10-26T12:05:06.572Z"
+    },
+    {
+      "id": "am-i-nima",
+      "name": "Am I Nima",
+      "status": "candidate",
+      "releaseDate": "2026-11-27",
+      "officialUrl": "https://store.steampowered.com/app/3224600/",
+      "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ec4c212665296bd88ee2cb506455d6b1ceeb2c30/header.jpg",
+      "platforms": [
+        "PC"
+      ],
+      "releaseType": "Juego nuevo",
+      "dateSourceUrl": "https://store.steampowered.com/app/3224600/",
+      "verifiedAt": "2026-10-26T12:05:06.572Z"
+    },
+    {
+      "id": "crimson-desert-charting-the-unknown",
+      "name": "Crimson Desert: Charting the Unknown",
+      "status": "candidate",
+      "releaseDate": "2026-10-29",
+      "officialUrl": "https://crimsondesert.pearlabyss.com/en-US/Game/DLC/charting-the-unknown",
+      "coverUrl": "https://s1.pearlcdn.com/cd/brand/board/2026/09/01/bf49f7f642020260901072758646.png",
+      "platforms": [
+        "PC"
+      ],
+      "releaseType": "Expansión · Lanzamiento: 29/10/2026 a las 23:00 Europe/Madrid",
+      "dateSourceUrl": "https://crimsondesert.pearlabyss.com/es-MX/News/Notice/Detail?_boardNo=129",
+      "verifiedAt": "2026-10-26T12:05:06.572Z"
     }
   ]
 }
